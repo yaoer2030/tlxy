@@ -17,4 +17,3 @@ print(list1)
 # 下面代码和上面代码同效
 list1 = [value**3 for value in range(1,11)]  # value**2 是表达式
 print(list1)
-
